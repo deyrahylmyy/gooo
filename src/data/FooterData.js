@@ -15,6 +15,7 @@ export const footerSocialData = [
 	{
 		name: 'YouTube',
 		icon: iconStyle(FaYoutube),
+		
 	},
 	{
 		name: 'Twitter',
@@ -29,18 +30,10 @@ export const footerSocialData = [
 export const footerData = [
 	{
 		title: 'Main',
-		links: ['Blog', 'FAQs', 'Support', 'About us'],
-	},
-	{
-		title: 'Product',
-		links: ['Login', 'Personal', 'Business', 'Team'],
-	},
-	{
-		title: 'Press',
-		links: ['Logos', 'Events', 'Stories', 'Office'],
+		links: ['RAF MEDIA', 'SAYAGI.NET','METACOSME'],
 	},
 	{
 		title: 'Legal',
-		links: ['GDPR', 'Privacy Policy', 'Terms of Service', 'Disclaimer'],
+		links: ['Privacy Policy', 'Terms of Service', 'Disclaimer'],
 	},
 ];

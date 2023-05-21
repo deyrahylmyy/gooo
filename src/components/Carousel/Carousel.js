@@ -10,7 +10,7 @@ import {
 	CarouselImage,
 	CardButton,
 } from './CarouselStyles';
-
+import { team } from '../../rafteam/team';
 const Carousel = () => {
 	const [sliderRef, setSliderRef] = useState(null);
 
