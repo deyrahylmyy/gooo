@@ -10,7 +10,7 @@ import {
 	FooterWrapper,
 	FooterAddress,
 	FooterColumn,
-	FooterGrid,
+	FooterGrid
 } from './FooterStyles';
 import { footerData, footerSocialData } from '../../data/FooterData';
 import { Row, Section } from '../../globalStyle';
@@ -26,7 +26,10 @@ function Footer() {
 							RAF369
 						</FooterLogo>
 						<FooterAddress>
-						Jl. Sukamenak No. 16 
+						Jl. Sukamenak  No. 16, Bandung 40228.
+						</FooterAddress>
+						<FooterAddress>
+						+62-8112-1223-69	
 						</FooterAddress>
 
 						<Row align="center" margin="auto  0 0 0" gap="1rem">

@@ -1,15 +1,7 @@
 export const data = [
 	{
 		to: '/',
-		text: 'About',
+		text: 'Tentang kami',
 		id: 'about',
-	},
-	{
-		to: '/pricing',
-		text: 'Pricing',
-	},
-	{
-		to: '/signup',
-		text: 'Contact',
 	},
 ];
