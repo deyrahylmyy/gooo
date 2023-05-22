@@ -15,7 +15,10 @@ export const footerSocialData = [
 	{
 		name: 'YouTube',
 		icon: iconStyle(FaYoutube),
+<<<<<<< HEAD
 		
+=======
+>>>>>>> 60c466b (Add files via upload)
 	},
 	{
 		name: 'Twitter',
@@ -30,10 +33,26 @@ export const footerSocialData = [
 export const footerData = [
 	{
 		title: 'Main',
+<<<<<<< HEAD
 		links: ['RAF MEDIA', 'SAYAGI.NET','METACOSME'],
 	},
 	{
 		title: 'Legal',
 		links: ['Privacy Policy', 'Terms of Service', 'Disclaimer'],
+=======
+		links: ['Blog', 'FAQs', 'Support', 'About us'],
+	},
+	{
+		title: 'Product',
+		links: ['Login', 'Personal', 'Business', 'Team'],
+	},
+	{
+		title: 'Press',
+		links: ['Logos', 'Events', 'Stories', 'Office'],
+	},
+	{
+		title: 'Legal',
+		links: ['GDPR', 'Privacy Policy', 'Terms of Service', 'Disclaimer'],
+>>>>>>> 60c466b (Add files via upload)
 	},
 ];

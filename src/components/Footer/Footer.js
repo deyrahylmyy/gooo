@@ -10,7 +10,11 @@ import {
 	FooterWrapper,
 	FooterAddress,
 	FooterColumn,
+<<<<<<< HEAD
 	FooterGrid
+=======
+	FooterGrid,
+>>>>>>> 60c466b (Add files via upload)
 } from './FooterStyles';
 import { footerData, footerSocialData } from '../../data/FooterData';
 import { Row, Section } from '../../globalStyle';
@@ -26,10 +30,14 @@ function Footer() {
 							RAF369
 						</FooterLogo>
 						<FooterAddress>
+<<<<<<< HEAD
 						Jl. Sukamenak  No. 16, Bandung 40228.
 						</FooterAddress>
 						<FooterAddress>
 						+62-8112-1223-69	
+=======
+						Jl. Sukamenak No. 16 
+>>>>>>> 60c466b (Add files via upload)
 						</FooterAddress>
 
 						<Row align="center" margin="auto  0 0 0" gap="1rem">

@@ -39,7 +39,10 @@ export const Heading = styled.h2`
 	text-align: center;
 	width: ${({ width }) => (width ? width : '100%')};
 `;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 60c466b (Add files via upload)
 export const TextWrapper = styled.span`
 	color: ${({ color }) => (color ? color : '')};
 	font-size: ${({ size }) => (size ? size : '')};
@@ -50,7 +53,10 @@ export const TextWrapper = styled.span`
 	margin-bottom: ${({ mb }) => (mb ? mb : '')};
 	margin-top: ${({ mt }) => (mt ? mt : '')};
 `;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 60c466b (Add files via upload)
 export const Section = styled.section`
 	padding: ${({ padding }) => (padding ? padding : '140px 0')};
 	margin: ${({ margin }) => (margin ? margin : '')};

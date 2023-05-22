@@ -10,7 +10,11 @@ import {
 	CarouselImage,
 	CardButton,
 } from './CarouselStyles';
+<<<<<<< HEAD
 import { team } from '../../rafteam/team';
+=======
+
+>>>>>>> 60c466b (Add files via upload)
 const Carousel = () => {
 	const [sliderRef, setSliderRef] = useState(null);
 
@@ -18,7 +22,11 @@ const Carousel = () => {
 		<Section margin="auto" maxWidth="1280px" padding="50px 70px" inverse>
 			<Row justify="space-between" margin="1rem" wrap="wrap">
 				<Heading width="auto" inverse>
+<<<<<<< HEAD
 					Selebihnya Tentang Kami
+=======
+					Find more about us
+>>>>>>> 60c466b (Add files via upload)
 				</Heading>
 				<ButtonContainer>
 					<IconContext.Provider value={{ size: '3rem', color: '#1d609c' }}>
