@@ -11,10 +11,14 @@ import {
 	FooterAddress,
 	FooterColumn,
 <<<<<<< HEAD
+<<<<<<< HEAD
 	FooterGrid
 =======
 	FooterGrid,
 >>>>>>> 60c466b (Add files via upload)
+=======
+	FooterGrid
+>>>>>>> d2b498f (materi update-1)
 } from './FooterStyles';
 import { footerData, footerSocialData } from '../../data/FooterData';
 import { Row, Section } from '../../globalStyle';
@@ -31,13 +35,19 @@ function Footer() {
 						</FooterLogo>
 						<FooterAddress>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> d2b498f (materi update-1)
 						Jl. Sukamenak  No. 16, Bandung 40228.
 						</FooterAddress>
 						<FooterAddress>
 						+62-8112-1223-69	
+<<<<<<< HEAD
 =======
 						Jl. Sukamenak No. 16 
 >>>>>>> 60c466b (Add files via upload)
+=======
+>>>>>>> d2b498f (materi update-1)
 						</FooterAddress>
 
 						<Row align="center" margin="auto  0 0 0" gap="1rem">

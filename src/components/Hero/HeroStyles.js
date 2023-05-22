@@ -22,10 +22,14 @@ export const HeroVideo = styled.video`
 export const HeroText = styled.p`
 	margin-bottom: 35px;
 <<<<<<< HEAD
+<<<<<<< HEAD
 	font
 =======
 	font-size: clamp(0.9rem, 1.5vw, 1.3rem);
 >>>>>>> 60c466b (Add files via upload)
+=======
+	font
+>>>>>>> d2b498f (materi update-1)
 	line-height: 24px;
 	text-align: center;
 	letter-spacing: 2px;

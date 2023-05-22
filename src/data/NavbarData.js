@@ -2,6 +2,7 @@ export const data = [
 	{
 		to: '/',
 <<<<<<< HEAD
+<<<<<<< HEAD
 		text: 'Tentang kami',
 		id: 'about',
 	},
@@ -18,4 +19,9 @@ export const data = [
 		text: 'Contact',
 	},
 >>>>>>> 60c466b (Add files via upload)
+=======
+		text: 'Tentang kami',
+		id: 'about',
+	},
+>>>>>>> d2b498f (materi update-1)
 ];
