@@ -25,7 +25,15 @@ const Features = () => {
 		<Section smPadding="50px 10px" position="relative" inverse id="about">
 			<Container>
 				<FeatureTextWrapper>
+<<<<<<< HEAD
+<<<<<<< HEAD
 					<FeatureTitle>Kerjasama</FeatureTitle>
+=======
+					<FeatureTitle>What We Offer</FeatureTitle>
+>>>>>>> 60c466b (Add files via upload)
+=======
+					<FeatureTitle>Kerjasama</FeatureTitle>
+>>>>>>> d2b498f (materi update-1)
 				</FeatureTextWrapper>
 				<FeatureWrapper>
 					{featuresData.map((el, index) => (
