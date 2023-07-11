@@ -1,13 +1,5 @@
 import React, { useState } from 'react';
-<<<<<<< HEAD
-<<<<<<< HEAD
 import { FaTimes } from 'react-icons/fa';
-=======
-import { FaRProject, FaTimes } from 'react-icons/fa';
->>>>>>> 60c466b (Add files via upload)
-=======
-import { FaTimes } from 'react-icons/fa';
->>>>>>> d2b498f (materi update-1)
 import { CgMenuRight } from 'react-icons/cg';
 import { IconContext } from 'react-icons';
 import {
